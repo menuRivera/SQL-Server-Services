@@ -1,0 +1,9 @@
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\SQL-Start.exe
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\SQL-Start.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\SQL-Start.deps.json
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\SQL-Start.runtimeconfig.json
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\SQL-Start.pdb
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\System.Diagnostics.EventLog.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\System.ServiceProcess.ServiceController.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Start\bin\Release\net5.0\publish\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll

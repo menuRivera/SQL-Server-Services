@@ -1,0 +1,16 @@
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\SQL-Stop.exe
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\SQL-Stop.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\SQL-Stop.deps.json
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\SQL-Stop.runtimeconfig.json
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\SQL-Stop.pdb
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\Microsoft.Win32.Registry.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\System.Diagnostics.EventLog.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\System.Security.AccessControl.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\System.Security.Principal.Windows.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\System.ServiceProcess.ServiceController.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Users\Manuel\Documents\Codes\C#\SQLServices\SQL-Stop\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll

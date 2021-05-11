@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cB01IGBOS057KJc21mZBwZWv1oWYwF6Wg9oKQa1zXMs9BKEp9sboG48fvi1kbJ0P791GlL3O6Leb9+DYtWsHoA==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Manuel\\Documents\\Codes\\C#\\SQLServices\\SQL-Stop\\SQL-Stop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manuel\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manuel\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manuel\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\system.diagnostics.eventlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manuel\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manuel\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manuel\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\system.serviceprocess.servicecontroller.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
